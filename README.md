@@ -248,5 +248,4 @@ http://localhost:5000
 ```
 
 
-That way, you can just drop it into your GitHub repo or print it for your migration submission.
-```
+
